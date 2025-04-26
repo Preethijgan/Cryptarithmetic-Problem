@@ -123,7 +123,8 @@ MONEY = 10652<br>
 
 <h1>Output:</h1>
 
-    ![image](https://github.com/user-attachments/assets/6d276ca4-8744-4c54-9a6e-4c488bba27aa)
+  ![Screenshot 2025-04-26 214621](https://github.com/user-attachments/assets/c2d0ff16-814b-48bd-a040-8a49567e47e2)
+
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
